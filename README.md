@@ -1,0 +1,1 @@
+# login-example-go-part12の目標
